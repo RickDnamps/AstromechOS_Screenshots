@@ -1,14 +1,14 @@
 # AstromechOS_Screenshots
 
-Dépôt d'hébergement des captures d'écran pour les projets [AstromechOS](https://github.com/RickDnamps/AstromechOS) et [AstromechOS_Imager](https://github.com/RickDnamps/AstromechOS_Imager).
+Repository that hosts screenshots for the [AstromechOS](https://github.com/RickDnamps/AstromechOS) and [AstromechOS_Imager](https://github.com/RickDnamps/AstromechOS_Imager) projects.
 
-## Organisation
+## Layout
 
-| Dossier | Source |
+| Folder | Source project |
 |---|---|
-| `Screenshots_Astro/` | Captures du projet AstromechOS |
-| `Screenshots_Imager/` | Captures du projet AstromechOS_Imager |
+| `Screenshots_Astro/` | Screenshots from AstromechOS |
+| `Screenshots_Imager/` | Screenshots from AstromechOS_Imager |
 
-## Pourquoi un dépôt séparé ?
+## Why a separate repository?
 
-Pour alléger la structure des dépôts principaux en y déportant les médias volumineux (PNG, JPG, GIF, etc.).
+To keep the main repositories lightweight by offloading large media files (PNG, JPG, GIF, etc.) into a dedicated repository.

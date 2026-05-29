@@ -5,7 +5,7 @@ Desktop.ini
 .DS_Store
 $RECYCLE.BIN/
 
-# Editor / IDE
+# Editors / IDEs
 .vscode/
 .idea/
 *.swp
